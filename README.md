@@ -7,7 +7,6 @@ To develop a recommendation system that suggests books to users based on shared 
 
 ## **Tools and Libraries**
 - **Data Manipulation**: pandas, numpy
-- **Data Visualization**: matplotlib
 - **Similarity Computation**: sklearn.metrics.pairwise.cosine_similarity
 - **Utility**: IPython.display for visualizing recommendations
 
